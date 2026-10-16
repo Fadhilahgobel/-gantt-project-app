@@ -302,3 +302,8 @@ npm run build       # tsc -b && vite build -> dist/
 ```
 
 Semua perintah di atas lolos tanpa error.
+
+## 7. Tampilan
+
+  ![homepage](ss/1.png)
+  ![gantt](ss/2.png)
